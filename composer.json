@@ -1,11 +1,10 @@
 {
-	"name":"samsonos/js_lightbox",
+	"name":"samsonjavascript/lightbox",
 	"author":{
 		"name":"Vitaly Iegorov",
 		"email":"egorov@samsonos.com",
 		"website":"http://samsonos.com"
 	},
-	"version":"1.0.0",
 	"require":{
 		"samsonos/js_core":"*",
 		"samsonphp/less":"*"
